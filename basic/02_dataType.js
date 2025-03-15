@@ -10,3 +10,4 @@ console.log(typeof "Sagar");
 console.log(typeof undefined); // undrfined
 console.log(typeof null); // object
 
+let name = "Sagar Satyarthi Mishra";
