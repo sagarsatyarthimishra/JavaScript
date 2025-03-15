@@ -14,6 +14,5 @@ accountEmail = "sagar@";
 accountPassword = "212132";
 accountCity = "Gonda";
 console.log(accountEmail);
-
 console.log(accountId);
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState]);
